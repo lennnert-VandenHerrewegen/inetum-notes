@@ -70,6 +70,11 @@ Merging several commits together
 4. `git commit -v`  
 Be careful about squashing commits once you have pushed  
 
+## Stash and pop
+Stash changes to work on them later
+`git stash` stash latest changes
+`git stash pop` put stached changes back
+
 ## Merge requests
 `git push origin modify-readme`  
 
